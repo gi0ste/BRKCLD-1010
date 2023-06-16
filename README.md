@@ -3,7 +3,8 @@
 This content was presented in the BRKCLD-1010 session at the last CiscoLive US 2023.
 In the WORKFLOW folder, you will find all the workflow used in the session.
 Videos are available here:
- - 1 VMware cluster setup https://youtu.be/RB1NesI32UU
+ 
+- 1 VMware cluster setup https://youtu.be/RB1NesI32UU
  - 2 ESXi OS install https://youtu.be/cKXJq5ONaRQ
  - 3 DVS Configuration https://youtu.be/drF33JnB2x8
  - 4 Storage host and group https://youtu.be/J6BeyiDXvZg
