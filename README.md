@@ -11,3 +11,9 @@ New Datacenter:
  - 4 Configure iSCSI on ESXi https://youtu.be/EgPrgagi-0w
  - 5 Add New Datastore and Volume https://youtu.be/_om8G-g3Xs8
 
+Kubernetes on Bare Metal
+ - 1 Video will be posted soon
+
+Bare Metal as a Service
+ - 1 Video will be posted soon
+
